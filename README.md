@@ -5,7 +5,8 @@ and the Simpson rule.
 ## Usage
 
 	./borwein n
-	Where n is a natural integer defining the integral to be computed
+
+Where n is a natural integer defining the integral to be computed
 
 ## Authors
 Jérémy Koehler and Natacha Drécourt
